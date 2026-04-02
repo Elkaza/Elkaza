@@ -1,27 +1,51 @@
 # Mohamed Elkaza
 
-IT Infrastructure, Systems & Software Engineer based in Vienna.
+**IT Infrastructure, Systems & Software Engineer**  
+Vienna, Austria
 
-My background is in IT operations, infrastructure, networking, support, and automation. I also work on self-hosted platforms, secure hybrid-cloud setups, and IoT/edge systems as an ongoing specialization through projects and master's studies.
+I work at the intersection of **IT operations, infrastructure, networking, automation, and technical integration**. My background includes Windows-based client/server environments, support, troubleshooting, ServiceNow-related process work, application engineering, and structured documentation.
 
-## Focus Areas
-- IT operations and systems administration
-- Networking, security, and private infrastructure
-- Automation, integration, and technical documentation
-- IoT, telemetry, and edge systems
+Alongside that core profile, I am building a stronger specialization in **security, hybrid-cloud infrastructure, IoT, and edge systems** through hands-on projects and master's studies.
 
-## Featured Work
-- [elkaza-org](https://github.com/Elkaza/elkaza-org) - portfolio website and technical case studies
-- [secure-ble-mqtt-monitoring-platform](https://github.com/Elkaza/secure-ble-mqtt-monitoring-platform) - secure BLE to MQTT monitoring stack with Node-RED, InfluxDB, and Grafana
-- Hybrid-cloud private networking, DNS privacy, and infrastructure hardening projects
-- Data and process analysis projects related to digital transformation and labor market research
+## What I bring
+- **IT operations and systems administration** across Windows/Linux-adjacent environments
+- **Networking and security fundamentals** including TCP/IP, DNS, DHCP, VPN, segmentation, and hardening
+- **Automation and integration work** using Python, PowerShell, Bash, XML/XSLT, and service workflows
+- **Structured analysis and delivery** through documentation, process thinking, data analysis, and business-analysis-oriented work
+- **Emerging systems focus** in IoT, telemetry, secure connectivity, and edge platforms
 
-## Current Direction
-I am currently strengthening my profile at the intersection of:
+## Featured repositories
+- [elkaza-org](https://github.com/Elkaza/elkaza-org)  
+  Portfolio website with case studies across infrastructure, security, systems engineering, and ongoing IoT work.
+
+- [secure-ble-mqtt-monitoring-platform](https://github.com/Elkaza/secure-ble-mqtt-monitoring-platform)  
+  Secure BLE-to-MQTT monitoring platform using Node-RED, InfluxDB, Grafana, TLS, and containerized edge deployment.
+
+- [DA-Jobs-scraping](https://github.com/Elkaza/DA-Jobs-scraping)  
+  Job market data collection and analysis project supporting research and labor market insights.
+
+## Current direction
+I am currently strengthening my profile in:
 - infrastructure and systems engineering
 - networking and security
-- automation and integration
+- automation and technical integration
+- hybrid-cloud and self-hosted platforms
 - IoT and connected systems
 
-Website: [elkaza.org](https://www.elkaza.org)
-LinkedIn: [linkedin.com/in/elkaza](https://www.linkedin.com/in/elkaza)
+## Education
+- **M.Sc. Business Informatics**, TU Wien
+- **M.Sc. Internet of Things & Intelligent Systems**, FH Technikum Wien
+- **IPMA Level D (cPMA)**
+
+## Open to
+Roles in:
+- IT infrastructure
+- systems engineering
+- operations / platform support
+- networking and security
+- automation / integration
+- IoT and connected systems
+
+## Links
+- Website: [elkaza.org](https://www.elkaza.org)
+- LinkedIn: [linkedin.com/in/elkaza](https://www.linkedin.com/in/elkaza)
