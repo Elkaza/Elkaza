@@ -1,10 +1,14 @@
 # Mohamed Elkaza
 
-IT Infrastructure, Platform & Automation Engineer<br>
+**IT Infrastructure & Application Engineer**  
 Vienna, Austria
 
-I work across operational IT, Linux/Windows systems, networking, automation, and secure self-hosted infrastructure.
+I work across application support, Linux and Windows systems, automation,
+networking, Docker-based infrastructure and IoT.
 
-Current focus: hybrid cloud delivery, GitHub Actions CI/CD, Tailscale zero-trust networking, Docker/Nginx Proxy Manager, monitoring, and backup automation.
+Current focus: Linux operations, Docker, GitHub Actions, Tailscale networking,
+monitoring, backup automation, Edge AI and embedded systems.
 
-[Portfolio](https://www.elkaza.org) | [CV](https://www.elkaza.org/cv) | [LinkedIn](https://www.linkedin.com/in/elkaza)
+[Portfolio](https://elkaza.org) ·
+[Projects](https://elkaza.org/projects) ·
+[LinkedIn](https://linkedin.com/in/elkaza)
